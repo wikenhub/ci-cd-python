@@ -38,5 +38,5 @@ jobs:
 
       - name: Deploy Application
         run: |
-          echo "Deploying the application..."
+          echo "Deploying the application...."
           # Add deployment commands here
